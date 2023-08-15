@@ -16,7 +16,9 @@ p {
 PC用のスタイル 
 =================*/
 @media screen and (min-width: 768px) {
-  #nav-sp, #menu-sp {
+
+  #nav-sp,
+  #menu-sp {
     display: none;
   }
 
