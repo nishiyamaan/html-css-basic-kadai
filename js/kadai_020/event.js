@@ -8,7 +8,7 @@ const changeText = () => {
 abtn.addEventListener("click", () => {
     setTimeout(() => {
         changeText()
-    }, 2000);
+    }, 2000)
 })
 
 // これでいけてほしい
