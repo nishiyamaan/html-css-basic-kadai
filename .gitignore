@@ -1,3 +1,2 @@
-/django/myvenv/
-/django/myproject/myproject/__pycache__
-/django/myproject/crud/__pycache__
+myvenv/
+__pycache__/
