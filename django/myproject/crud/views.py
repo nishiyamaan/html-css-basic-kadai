@@ -8,7 +8,7 @@ from django.urls import reverse_lazy
 
 
 class TopView(TemplateView):
-    template_name = "crud/top.html"
+    template_name = "top.html"
 
 
 class ProductListView(ListView):
